@@ -1,10 +1,8 @@
-# Monty
+# MONTY
 
 **This is ALX project 0x19. C - Stacks, Queues - LIFO, FIFO**
 
 ![alt text](https://pbs.twimg.com/media/CFYYWy6UEAE9Ow-.png)
-
-![alt text](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=video&cd=&cad=rja&uact=8&ved=2ahUKEwiAqIWZr8b6AhUxSvEDHdf4DB0QuAJ6BAgFEAo&url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DH4wuH9pSSRo&usg=AOvVaw13MiwPsuDE2deUuQem4Tv4)
 
 Monty 0.98 is a scripting language that is first compiled into Monty byte codes (Just like Python). It relies on a unique stack, with specific instructions to manipulate it. The goal of this project is to create an interpreter for Monty ByteCodes files.
 
